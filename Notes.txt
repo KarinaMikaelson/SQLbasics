@@ -1,0 +1,6 @@
+Database Connection Details
+ Connection Name: HRM
+ Connection Method: Standard (TCP/IP)
+Host Name: 3.239.253.255 Port: 3306
+Username: syntax_hrm
+Password: syntaxhrm123
